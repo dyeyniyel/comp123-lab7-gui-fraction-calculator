@@ -1,0 +1,10 @@
+C:\Users\janie\OneDrive - Centennial College\Sem01\COMP123_Programming II\LabSubmissions\Week_9_lab_GuiFractionCalculator\Week_9_lab_GuiFractionCalculator\bin\Debug\Week_9_lab_GuiFractionCalculator.exe.config
+C:\Users\janie\OneDrive - Centennial College\Sem01\COMP123_Programming II\LabSubmissions\Week_9_lab_GuiFractionCalculator\Week_9_lab_GuiFractionCalculator\bin\Debug\Week_9_lab_GuiFractionCalculator.exe
+C:\Users\janie\OneDrive - Centennial College\Sem01\COMP123_Programming II\LabSubmissions\Week_9_lab_GuiFractionCalculator\Week_9_lab_GuiFractionCalculator\bin\Debug\Week_9_lab_GuiFractionCalculator.pdb
+C:\Users\janie\OneDrive - Centennial College\Sem01\COMP123_Programming II\LabSubmissions\Week_9_lab_GuiFractionCalculator\Week_9_lab_GuiFractionCalculator\obj\Debug\Week_9_lab_GuiFractionCalculator.csproj.AssemblyReference.cache
+C:\Users\janie\OneDrive - Centennial College\Sem01\COMP123_Programming II\LabSubmissions\Week_9_lab_GuiFractionCalculator\Week_9_lab_GuiFractionCalculator\obj\Debug\Week_9_lab_GuiFractionCalculator.Form1.resources
+C:\Users\janie\OneDrive - Centennial College\Sem01\COMP123_Programming II\LabSubmissions\Week_9_lab_GuiFractionCalculator\Week_9_lab_GuiFractionCalculator\obj\Debug\Week_9_lab_GuiFractionCalculator.Properties.Resources.resources
+C:\Users\janie\OneDrive - Centennial College\Sem01\COMP123_Programming II\LabSubmissions\Week_9_lab_GuiFractionCalculator\Week_9_lab_GuiFractionCalculator\obj\Debug\Week_9_lab_GuiFractionCalculator.csproj.GenerateResource.cache
+C:\Users\janie\OneDrive - Centennial College\Sem01\COMP123_Programming II\LabSubmissions\Week_9_lab_GuiFractionCalculator\Week_9_lab_GuiFractionCalculator\obj\Debug\Week_9_lab_GuiFractionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\janie\OneDrive - Centennial College\Sem01\COMP123_Programming II\LabSubmissions\Week_9_lab_GuiFractionCalculator\Week_9_lab_GuiFractionCalculator\obj\Debug\Week_9_lab_GuiFractionCalculator.exe
+C:\Users\janie\OneDrive - Centennial College\Sem01\COMP123_Programming II\LabSubmissions\Week_9_lab_GuiFractionCalculator\Week_9_lab_GuiFractionCalculator\obj\Debug\Week_9_lab_GuiFractionCalculator.pdb
