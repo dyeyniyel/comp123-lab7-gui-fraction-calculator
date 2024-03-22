@@ -91,4 +91,6 @@ public class Fraction
 
 
 My output:
+
+
 ![image](https://github.com/dyeyniyel/comp123-lab7-gui-fraction-calculator/assets/158533198/c0cd827c-2059-421e-9923-79fd9eb0e081)
